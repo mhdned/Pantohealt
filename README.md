@@ -87,6 +87,6 @@ Sample x-ray data is available at: [Sample Data](https://drive.google.com/file/d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,npm,nestjs,rabbitmq,postgresql,prisma,ts,jest" />
+    <img src="https://skillicons.dev/icons?i=nodejs,npm,nestjs,rabbitmq,mongodb,prisma,ts,jest" />
   </a>
 </p>

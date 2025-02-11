@@ -82,3 +82,11 @@ Sample x-ray data is available at: [Sample Data](https://drive.google.com/file/d
 - Provide a GitHub repository with your solution.
 - Include a README with setup instructions and any assumptions made (Bonus).
 - Dockerize each project (Bonus).
+
+## Technologies Used
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,npm,nestjs,rabbitmq,postgresql,prisma,ts,jest" />
+  </a>
+</p>

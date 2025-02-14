@@ -80,7 +80,7 @@ Sample x-ray data is available at: [Sample Data](https://drive.google.com/file/d
 ## Submission Guidelines
 
 - Provide a GitHub repository with your solution.
-- Include a README with setup instructions and any assumptions made (Bonus).
+- Include README with setup instructions and any assumptions made (Bonus).
 - Dockerize each project (Bonus).
 
 ## Technologies Used
